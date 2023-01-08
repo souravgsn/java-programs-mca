@@ -1,5 +1,5 @@
 import java.util.*;
-public class duplicateFinder
+public class duplicateFinder //change the file name or class name to run this code 
 {
 public static void main(String[] args){
 		int[] arr = {1,2,3,4,5,6,2,3,54,9,87,6,46};
